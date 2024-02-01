@@ -52,3 +52,4 @@
 ### KANBAN IMAGE
 ![KakaoTalk_20240201_150618655_02](https://github.com/DEV-CREW-FOR-KANBAN/KANBAN_PROJECT/assets/145534055/b1caa677-de3e-4d01-8d5e-d8b10ecdc25d)
 
+### MVP Todo
