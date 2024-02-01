@@ -1,3 +1,7 @@
+
+<img src="https://github.com/DEV-CREW-FOR-KANBAN/KANBAN_PROJECT/assets/145534055/f37885a1-e462-4d33-bef4-0b574f7d4581" width="400"/>
+
+
 ### TEAM
 - 이모지 각자 달고 싶은 거 앞에 달면 귀엽겠죠?
 - 김단아 🦄
