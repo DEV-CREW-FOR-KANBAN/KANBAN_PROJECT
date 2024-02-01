@@ -1,6 +1,8 @@
-
-<img src="https://github.com/DEV-CREW-FOR-KANBAN/KANBAN_PROJECT/assets/145534055/f37885a1-e462-4d33-bef4-0b574f7d4581" width="400"/>
-
+<p align="center">
+<img src="https://github.com/DEV-CREW-FOR-KANBAN/KANBAN_PROJECT/assets/145534055/f37885a1-e462-4d33-bef4-0b574f7d4581" width="300"/>
+</p>
+<hr>
+<br>
 
 ### TEAM
 - 이모지 각자 달고 싶은 거 앞에 달면 귀엽겠죠?
@@ -8,6 +10,8 @@
 - 김민우 🐷
 - 김민성 ☃️
 - 고라희 👻
+
+<br>
 
 ### TEAM'S PHOTO
 
@@ -54,10 +58,13 @@
        ⬆️고라희    ⬆️김단아   ⬆️김민우  ⬆️김민성
 ```
 
+<br>
+
 ### KANBAN IMAGE
 ![KakaoTalk_20240201_150618655_02](https://github.com/DEV-CREW-FOR-KANBAN/KANBAN_PROJECT/assets/145534055/b1caa677-de3e-4d01-8d5e-d8b10ecdc25d)
 
-### MVP Todo
+<br>
 
+### MVP Todo
 ![image](https://github.com/DEV-CREW-FOR-KANBAN/KANBAN_PROJECT/assets/148920003/68225a1f-1e8b-48c8-ba21-90a47d1063d6)
 
